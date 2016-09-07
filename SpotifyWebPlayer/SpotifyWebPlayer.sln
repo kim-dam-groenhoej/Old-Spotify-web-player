@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyConsoleControl", "..\Source (C#)\SpotifyConsoleControl\SpotifyConsoleControl\SpotifyConsoleControl.csproj", "{A306F9C4-3098-4CCF-BAB2-078F83869061}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SpotifyControlSetup", "..\Source (C#)\SpotifyControlSetup\SpotifyControlSetup\SpotifyControlSetup.vdproj", "{6965299B-1639-42D7-BE9A-9435BF84F71C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SpotifyWebPlayerInstaller", "..\Source (C#)\SpotifyControlSetup\SpotifyWebPlayerInstaller\SpotifyWebPlayerInstaller.vdproj", "{EB315B99-A9FE-425D-9A65-237E1141E502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyWebPlayerSetupHelper", "..\Source (C#)\SpotifyControlSetup\SpotifyWebPlayerSetupHelper\SpotifyWebPlayerSetupHelper.csproj", "{C7399E79-0478-48E8-9832-B6911E20B4DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyWebPlayer", "..\Source (C#)\SpotifyWebPlayer\SpotifyWebPlayer\SpotifyWebPlayer.csproj", "{F956CCE6-1E97-4F78-B76D-13487C074158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A306F9C4-3098-4CCF-BAB2-078F83869061}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A306F9C4-3098-4CCF-BAB2-078F83869061}.Debug|x86.ActiveCfg = Debug|x86
+		{A306F9C4-3098-4CCF-BAB2-078F83869061}.Debug|x86.Build.0 = Debug|x86
+		{A306F9C4-3098-4CCF-BAB2-078F83869061}.Release|Any CPU.ActiveCfg = Release|x86
+		{A306F9C4-3098-4CCF-BAB2-078F83869061}.Release|x86.ActiveCfg = Release|x86
+		{A306F9C4-3098-4CCF-BAB2-078F83869061}.Release|x86.Build.0 = Release|x86
+		{6965299B-1639-42D7-BE9A-9435BF84F71C}.Debug|Any CPU.ActiveCfg = Debug
+		{6965299B-1639-42D7-BE9A-9435BF84F71C}.Debug|Any CPU.Build.0 = Debug
+		{6965299B-1639-42D7-BE9A-9435BF84F71C}.Debug|x86.ActiveCfg = Debug
+		{6965299B-1639-42D7-BE9A-9435BF84F71C}.Debug|x86.Build.0 = Debug
+		{6965299B-1639-42D7-BE9A-9435BF84F71C}.Release|Any CPU.ActiveCfg = Release
+		{6965299B-1639-42D7-BE9A-9435BF84F71C}.Release|Any CPU.Build.0 = Release
+		{6965299B-1639-42D7-BE9A-9435BF84F71C}.Release|x86.ActiveCfg = Release
+		{6965299B-1639-42D7-BE9A-9435BF84F71C}.Release|x86.Build.0 = Release
+		{EB315B99-A9FE-425D-9A65-237E1141E502}.Debug|Any CPU.ActiveCfg = Debug
+		{EB315B99-A9FE-425D-9A65-237E1141E502}.Debug|Any CPU.Build.0 = Debug
+		{EB315B99-A9FE-425D-9A65-237E1141E502}.Debug|x86.ActiveCfg = Debug
+		{EB315B99-A9FE-425D-9A65-237E1141E502}.Debug|x86.Build.0 = Debug
+		{EB315B99-A9FE-425D-9A65-237E1141E502}.Release|Any CPU.ActiveCfg = Release
+		{EB315B99-A9FE-425D-9A65-237E1141E502}.Release|Any CPU.Build.0 = Release
+		{EB315B99-A9FE-425D-9A65-237E1141E502}.Release|x86.ActiveCfg = Release
+		{EB315B99-A9FE-425D-9A65-237E1141E502}.Release|x86.Build.0 = Release
+		{C7399E79-0478-48E8-9832-B6911E20B4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7399E79-0478-48E8-9832-B6911E20B4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7399E79-0478-48E8-9832-B6911E20B4DA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C7399E79-0478-48E8-9832-B6911E20B4DA}.Debug|x86.Build.0 = Debug|Any CPU
+		{C7399E79-0478-48E8-9832-B6911E20B4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7399E79-0478-48E8-9832-B6911E20B4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7399E79-0478-48E8-9832-B6911E20B4DA}.Release|x86.ActiveCfg = Release|Any CPU
+		{C7399E79-0478-48E8-9832-B6911E20B4DA}.Release|x86.Build.0 = Release|Any CPU
+		{F956CCE6-1E97-4F78-B76D-13487C074158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F956CCE6-1E97-4F78-B76D-13487C074158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F956CCE6-1E97-4F78-B76D-13487C074158}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F956CCE6-1E97-4F78-B76D-13487C074158}.Debug|x86.Build.0 = Debug|Any CPU
+		{F956CCE6-1E97-4F78-B76D-13487C074158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F956CCE6-1E97-4F78-B76D-13487C074158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F956CCE6-1E97-4F78-B76D-13487C074158}.Release|x86.ActiveCfg = Release|Any CPU
+		{F956CCE6-1E97-4F78-B76D-13487C074158}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
